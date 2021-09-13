@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BestRoadInvestment</string>
+    <string name="default_news_title">Random title name</string>
+    <string name="default_news_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat ex nec porta.</string>
+    <string name="default_date"></string>
+    <string name="default_search_text">Covid-19</string>
+</resources>
